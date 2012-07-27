@@ -29,6 +29,7 @@ Veewee::Session.declare(
     "chef.sh",
     "vagrant.sh",
     "virtualbox.sh",
+    "iptables.sh",
     "cleanup.sh"
   ],
   postinstall_timeout: 10000
