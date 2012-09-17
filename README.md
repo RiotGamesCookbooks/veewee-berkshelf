@@ -2,6 +2,12 @@
 
 Veewee definitions for rapid cookbook iteration with Berkshelf and Vagrant
 
+# Requirements
+
+* Ruby >= 1.9.2
+* Bundler >= 1.2.0
+* VirtualBox ~> 4.2.0
+
 ## Setup
 
 ## Building boxes
