@@ -17,7 +17,7 @@ Veewee definitions for rapid cookbook iteration with Berkshelf and Vagrant
 
 ## Packaging boxes
 
-    $ bundle exec vagrant basebox export Berkshelf-CentOS-6.3-x86_64-minimal 
+    $ bundle exec vagrant basebox export Berkshelf-CentOS-6.3-x86_64-minimal
 
 ## Authors
 
